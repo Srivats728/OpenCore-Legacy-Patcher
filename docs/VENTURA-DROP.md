@@ -13,7 +13,7 @@ Ventura's release dropped a large amount of Intel hardware, thus requiring the u
 * iMac17,1 (27-inch 5K, Late 2015)
 * MacBook9,1 (12-inch, Early 2016)
 * MacBookAir7,1 (11-inch, Early 2015)
-* MacBookAir7,2 (13-inch, Early 2015)
+* MacBookAir7,2 (13-inch, Early 2015/Mid 2017)
 * MacBookPro11,4 (15-inch, Mid 2015, iGPU)
 * MacBookPro11,5 (15-inch, Mid 2015, dGPU)
 * MacBookPro12,1 (13-inch, Early 2015)
